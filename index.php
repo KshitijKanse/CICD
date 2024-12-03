@@ -18,7 +18,7 @@
 
 <header class="header">
 
-    <a href="#" class="logo"> <i class="fa-solid fa-camera"></i> Saheli Digital Studios</a>
+    <a href="#" class="logo"> <i class="fa-solid fa-camera"></i>  Ankita-Kshitij Digital Studio </a>
 
     <nav class="navbar">
         <a href="#home">home</a>
